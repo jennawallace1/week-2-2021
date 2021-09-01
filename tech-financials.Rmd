@@ -1,0 +1,14 @@
+---
+title: "Tech Financials"
+author: "Jenna Wallace"
+date: "8/31/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(psych)
+library(here)
+```
+
